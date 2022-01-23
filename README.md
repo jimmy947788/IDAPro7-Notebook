@@ -14,7 +14,7 @@
 ### IDA Plugins
 * [idaplugins-lis](https://github.com/onethawt/idaplugins-list) 列出常用的Plugin
 * [d810](https://github.com/joydo/d810) 演算法反混淆
-    - 要先安裝Python套件 [z3]https://github.com/Z3Prover/z3
+    - 要先安裝Python套件 [z3](https://github.com/Z3Prover/z3)
 * [Lucid](https://github.com/gaasedelen/lucid) Hex-Rays Microcode Explorer
 * [keypatch](https://github.com/keystone-engine/keypatch) 更容易編輯 opcode 打上patch
     - 要先安裝Python套件 [Keystone](https://www.keystone-engine.org/)
