@@ -19,6 +19,8 @@
 * [keypatch](https://github.com/keystone-engine/keypatch) 更容易編輯 opcode 打上patch
     - 要先安裝Python套件 [Keystone](https://www.keystone-engine.org/)
 * [idenLib](plugins/idenLib/) 識別第三方函數庫的名稱
+* [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) 找加密方式的插件
+  - 要先安裝Python套件 [yara-python](https://github.com/VirusTotal/yara-python)
 
 
 ###  其他
